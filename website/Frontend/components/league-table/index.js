@@ -426,7 +426,7 @@ class LeagueTable extends Component {
             <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </td>
           </table>
         </div>
-        <a href="https://10259.github.io/football/">
+        <a href="https://teammaker259.github.io/">
           <button style={{ width: "300px", height: "35px" }}>
             气死了,我来当教练
           </button>
